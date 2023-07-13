@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ero-page/.idea/ero-page.iml" filepath="$PROJECT_DIR$/../ero-page/.idea/ero-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-chat-gp3-app.iml" filepath="$PROJECT_DIR$/.idea/react-chat-gp3-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-restaurant-app/.idea/react-restaurant-app.iml" filepath="$PROJECT_DIR$/../react-restaurant-app/.idea/react-restaurant-app.iml" />
     </modules>
   </component>
 </project>
